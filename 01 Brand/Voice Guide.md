@@ -59,6 +59,37 @@ Jangan mengubah kalimat terakhir menjadi klaim bahwa Magicat adalah partner resm
 - Urgensi palsu, testimoni palsu, angka penjualan palsu, atau stok buatan.
 - Nada absolut seperti "pasti aktif tanpa risiko" atau "lifetime".
 
+## Diksi: Natural Tapi Terstruktur
+
+Prinsipnya: **kerangka boleh tetap, kalimat jangan seragam.** Struktur itu urutan berpikir (buka → isi → aksi), bukan template kalimat yang diulang tiap post.
+
+### Pilih kata yang dipakai di chat sehari-hari
+
+Tulis seperti ngobrol, bukan seperti dokumen:
+
+| Kaku | Natural |
+|---|---|
+| tersebut, merupakan, adapun | itu, adalah, — (buang saja) |
+| serta, dan juga, maupun | dan, sama |
+| melakukan, memberikan, mendapatkan | lakuin/coba, kasih, dapet |
+| apabila, jika Anda | kalau, kalau kamu |
+| jangan ragu untuk | langsung aja |
+| untuk informasi lebih lanjut | detailnya di bawah / DM aja |
+
+Batasnya: santai, bukan alay. Singkatan yang masih kebaca semua orang (nggak, aja, udah, liat, bikin) boleh. Yang bikin dahi berkerut (wkwk berlebih, typo sengaja, bahasa gaul musiman) jangan.
+
+### Terstruktur tanpa kaku
+
+- Satu post = satu ide, tapi panjangnya boleh beda-beda. Kadang 3 baris cukup, kadang perlu 8 baris. Ikuti kebutuhan ide, bukan jumlah paragraf tetap.
+- Boleh campur kalimat pendek dan panjang. "Hasilnya ancur." boleh berdiri sendiri kalau baris sebelum dan sesudahnya sudah menjelaskan.
+- Daftar bullet cuma dipakai kalau isinya benar-benar daftar (langkah, harga, syarat). Kalau cuma 2 hal yang nyambung, tulis jadi kalimat biasa.
+- Pertanyaan penutup cuma kalau jawabannya kamu butuhkan. Jangan tanya cuma biar ada interaksi.
+- Konsisten di hal faktual (harga, keyword DM, nama produk), bebas di cara menyampaikan.
+
+### Uji cepat sebelum posting
+
+Bacakan dalam hati sekali. Kalau ada kalimat yang tidak akan kamu ucapkan ke teman, tulis ulang kalimat itu saja — jangan rombak semuanya.
+
 ## Filter Anti-AI-Slop (wajib sebelum post)
 
 1. **Tes portabilitas.** Kalau satu kalimat bisa dipindah mentah ke akun, produk, atau negara lain tanpa berubah, itu filler. Potong atau ganti dengan fakta, contoh, angka, atau penilaian spesifik Magicat.
