@@ -3,15 +3,15 @@
 ## Identitas Akun
 
 - Username: `@magicat.ai`
-- Display name: `Magicat | Eksperimen AI`
+- Display name: `Magicat AI`
 
 ## Bio Rekomendasi
 
-> Nyoba alat AI biar kamu nggak perlu gagal duluan  
-> Flow, prompt & workflow buat kreator  
-> Gemini AI Pro 18 bln | DM GEMINI
+> AI tools & prompt untuk kreator pemula  
+> Gemini AI Pro 18 bln — Rp49.000  
+> Garansi penggantian | DM GEMINI
 
-Bio menjaga eksperimen sebagai identitas utama akun. Produk hadir sebagai langkah lanjutan, bukan seluruh isi profil.
+Bio menempatkan Magicat sebagai penyedia yang jelas: audiens, produk + harga di depan, dan sinyal kepercayaan (garansi) sebelum CTA. Nada tetap mudah dibaca, profesional tanpa bahasa dokumen.
 
 ## Tiga Post Tersemat
 
@@ -58,18 +58,18 @@ Isi minimum:
 
 ## Paket Copy-Paste (siap pasang)
 
-Nama (23/30 karakter):
+Nama (10/30 karakter):
 
 ```text
-Magicat | Eksperimen AI
+Magicat AI
 ```
 
-Bio (118/150 karakter):
+Bio (102/150 karakter):
 
 ```text
-Nyoba alat AI biar kamu nggak perlu gagal duluan
-Flow, prompt & workflow buat kreator
-Gemini AI Pro 18 bln | DM GEMINI
+AI tools & prompt untuk kreator pemula
+Gemini AI Pro 18 bln — Rp49.000
+Garansi penggantian | DM GEMINI
 ```
 
 Link profil (Threads dukung hingga 5 link):

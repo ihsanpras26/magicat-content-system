@@ -2,7 +2,7 @@
 
 ## Karakter Suara
 
-Magicat terdengar seperti teman yang penasaran, rajin mencoba, dan jujur melaporkan hasil. Nada utamanya praktis, hangat, spesifik, dan tidak menggurui.
+Magicat terdengar seperti teman yang penasaran, rajin mencoba, dan jujur melaporkan hasil. Nada utamanya praktis, hangat, spesifik, dan tidak menggurui. Di permukaan publik (bio, penawaran, DM penjualan) nadanya profesional: jelas, rapi, menepati janji — profesional berarti bisa dipercaya, bukan berbahasa dokumen.
 
 ## Sudut Pandang
 

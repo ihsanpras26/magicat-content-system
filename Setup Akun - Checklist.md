@@ -10,15 +10,15 @@ Estimasi: 10 menit di HP. Semua teks tinggal copy-paste.
 ## 2. Nama
 
 ```text
-Magicat | Eksperimen AI
+Magicat AI
 ```
 
 ## 3. Bio
 
 ```text
-Nyoba alat AI biar kamu nggak perlu gagal duluan
-Flow, prompt & workflow buat kreator
-Gemini AI Pro 18 bln | DM GEMINI
+AI tools & prompt untuk kreator pemula
+Gemini AI Pro 18 bln — Rp49.000
+Garansi penggantian | DM GEMINI
 ```
 
 ## 4. Link
